@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Animation to slide the views from left to right -->
+    <translate
+        android:duration="300"
+        android:fromXDelta="-100%"
+        android:toXDelta="0%" />    <!-- Move it to its normal position (0% of the screen width) -->
+</set>
